@@ -1,0 +1,12 @@
+.td a {
+    text-decoration: none;
+    list-style-type: none;
+    color:black ;
+}
+
+.td a:hover {
+    color: red;
+}
+.table table-responsive{
+    color: brown;
+}
